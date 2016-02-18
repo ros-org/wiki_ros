@@ -1,6 +1,6 @@
 # stacks
 
-* [rms](https://wiki.ros.org/rms)
+* [rms](http://wiki.ros.org/rms)
 
 ***
 # robots
