@@ -1,3 +1,7 @@
+# resources
+
+* <wiki.ros.org>
+
 # stacks
 
 * [rosbridge_suite](http://wiki.ros.org/rosbridge_suite)
