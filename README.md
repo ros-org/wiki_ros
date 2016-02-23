@@ -32,9 +32,9 @@ install ros briefly as follow:
 
 configure environment as follow:
 
->$ echo "source /opt/ros/indigo/setup.zsh" >> ~/.zshrc
+>$ echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc
 
->$ source ~/.zshrc
+>$ source ~/.bashrc
 
 ***
 # stacks
