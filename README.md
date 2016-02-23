@@ -6,27 +6,27 @@ install ros briefly as follow:
 
 >(arm)$ sudo update-locale LANG=C LANGUAGE=C LC_ALL=C LC_MESSAGES=POSIX
 
->(com)$ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+>(!arm)$ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 
 >(arm)$ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu trusty main" > /etc/apt/sources.list.d/ros-latest.list'
 
->(com)$ sudo apt-key adv --keyserver hkp://pool.sks-keyservers.net --recv-key 0xB01FA116
+>(!arm)$ sudo apt-key adv --keyserver hkp://pool.sks-keyservers.net --recv-key 0xB01FA116
 
 >(arm)$ wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo apt-key add -
 
->(all)$ sudo apt-get update
+>$ sudo apt-get update
 
->(com)$ sudo apt-get install ros-indigo-desktop-full
+>(!arm)$ sudo apt-get install ros-indigo-desktop-full
 
 >(arm)$ sudo apt-get install ros-indigo-ros-base
 
 >(arm)$ sudo apt-get install python-rosdep
 
->(all)$ sudo rosdep init
+>$ sudo rosdep init
 
->(all)$ rosdep update
+>$ rosdep update
 
->(all)$ sudo apt-get install python-rosinstall
+>$ sudo apt-get install python-rosinstall
 
 >(arm)$ unset GTK_IM_MODULE
 
