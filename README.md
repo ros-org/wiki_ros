@@ -1,6 +1,6 @@
 # resources
 
-* <wiki.ros.org>
+* <http://wiki.ros.org/>
 
 # stacks
 
