@@ -36,6 +36,24 @@ configure environment as follow:
 
 >$ source ~/.bashrc
 
+>$ mkdir -p ~/catkin_ws/src
+
+>$ cd ~/catkin_ws/src
+
+>$ catkin_init_workspace
+
+>$ cd ~/catkin_ws/
+
+>$ catkin_make
+
+>$ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+
+>$ source ~/.bashrc
+
+>$ cd ~/catkin_ws/src
+
+># catkin_create_pkg <package_name> [depend1] [depend2] [depend3]
+
 ***
 # stacks
 
