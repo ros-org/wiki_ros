@@ -1,6 +1,23 @@
-# resources
+# tutorial
 
-* <http://wiki.ros.org/>
+get all ros resources at <http://wiki.ros.org/>
+install ros as follow:
+>
+(arm)	sudo update-locale LANG=C LANGUAGE=C LC_ALL=C LC_MESSAGES=POSIX
+(!arm)	sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+(arm)	sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu trusty main" > /etc/apt/sources.list.d/ros-latest.list'
+(!arm)	sudo apt-key adv --keyserver hkp://pool.sks-keyservers.net --recv-key 0xB01FA116
+(arm)	wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo apt-key add -
+	sudo apt-get update
+(!arm)	sudo apt-get install ros-indigo-desktop-full
+(arm)	sudo apt-get install ros-indigo-ros-base
+(arm)	sudo apt-get install python-rosdep
+	sudo rosdep init
+	rosdep update
+	sudo apt-get install python-rosinstall
+	source /opt/ros/indigo/setup.bash
+(arm)	unset GTK_IM_MODULE
+>
 
 # stacks
 
