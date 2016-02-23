@@ -3,36 +3,36 @@
 get all ros resources at <http://wiki.ros.org/>
 
 install ros as follow:
->
-(arm)$  sudo update-locale LANG=C LANGUAGE=C LC_ALL=C LC_MESSAGES=POSIX
 
-(!arm)$ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+>(arm)$ sudo update-locale LANG=C LANGUAGE=C LC_ALL=C LC_MESSAGES=POSIX
 
-(arm)$  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu trusty main" > /etc/apt/sources.list.d/ros-latest.list'
+>(!arm)$ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 
-(!arm)$ sudo apt-key adv --keyserver hkp://pool.sks-keyservers.net --recv-key 0xB01FA116
+>(arm)$ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu trusty main" > /etc/apt/sources.list.d/ros-latest.list'
 
-(arm)$  wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo apt-key add -
+>(!arm)$ sudo apt-key adv --keyserver hkp://pool.sks-keyservers.net --recv-key 0xB01FA116
 
-      $ sudo apt-get update
+>(arm)$ wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo apt-key add -
 
-(!arm)$ sudo apt-get install ros-indigo-desktop-full
+>(all)$ sudo apt-get update
 
-(arm)$  sudo apt-get install ros-indigo-ros-base
+>(!arm)$ sudo apt-get install ros-indigo-desktop-full
 
-(arm)$  sudo apt-get install python-rosdep
+>(arm)$ sudo apt-get install ros-indigo-ros-base
 
-      $ sudo rosdep init
+>(arm)$ sudo apt-get install python-rosdep
 
-      $ rosdep update
+>(all)$ sudo rosdep init
 
-      $ sudo apt-get install python-rosinstall
+>(all)$ rosdep update
 
-      $ source /opt/ros/indigo/setup.bash
+>(all)$ sudo apt-get install python-rosinstall
 
-(arm)$  unset GTK_IM_MODULE
->
+>(all)$ source /opt/ros/indigo/setup.bash
 
+>(arm)$ unset GTK_IM_MODULE
+
+***
 # stacks
 
 * [rosbridge_suite](http://wiki.ros.org/rosbridge_suite)
