@@ -36,7 +36,11 @@ configure environment as follow:
 
 >$ source ~/.bashrc
 
->$ mkdir -p ~/catkin_ws/src
+>$ mkdir -p ~/workspaces/src
+
+>$ mkdir ~/catkin_ws
+
+>$ ln -s ~/workspaces/src ~/catkin_ws/src
 
 >$ cd ~/catkin_ws/src
 
