@@ -69,6 +69,7 @@ install package as: (replace underscores with dashes of the package name)
 ***
 # interesting stacks
 
+* [octomap](http://wiki.ros.org/octomap)
 * [slam_gmapping](http://wiki.ros.org/slam_gmapping)
 * [hector_mapping](http://wiki.ros.org/hector_mapping)
 * [navigation](http://wiki.ros.org/navigation)
