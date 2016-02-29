@@ -70,6 +70,8 @@ install package as: (replace underscores with dashes of the package name)
 # interesting stacks
 
 * [slam_gmapping](http://wiki.ros.org/slam_gmapping)
+* [hector_mapping](http://wiki.ros.org/hector_mapping)
+* [navigation](http://wiki.ros.org/navigation)
 
 * [rosbridge_suite](http://wiki.ros.org/rosbridge_suite)
  * [rosbridge_suite-develop](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rosbridge_suite-develop.zip)
