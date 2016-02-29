@@ -1,8 +1,9 @@
-# tutorial
+# tutorial community
 
 get all ros resources at <http://wiki.ros.org/>
 
-install ros briefly as follow:
+***
+# quick installation
 
 >(arm)$ sudo update-locale LANG=C LANGUAGE=C LC_ALL=C LC_MESSAGES=POSIX
 
@@ -30,7 +31,8 @@ install ros briefly as follow:
 
 >(arm)$ unset GTK_IM_MODULE
 
-configure environment as follow:
+***
+# quick configuration
 
 >$ echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc
 
@@ -56,7 +58,7 @@ configure environment as follow:
 
 >$ cd ~/catkin_ws/src
 
->$ catkin_create_pkg <package_name> [depend1] [depend2] [depend3]
+>$ catkin_create_pkg [package_name] [depend1] [depend2] [depend3] ...
 
 ***
 # stacks
