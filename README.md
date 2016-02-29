@@ -58,11 +58,13 @@ get all ros resources at <http://wiki.ros.org/>
 
 >$ cd ~/catkin_ws/src
 
+create package as:
+
 >$ catkin_create_pkg [package_name] [depend1] [depend2] [depend3] ...
 
->$ sudo apt-get install ros-indigo-[stack_or_package_name]
+install package as: (replace underscores with dashes of the package name)
 
-replace underscores with dashes of the package name
+>$ sudo apt-get install ros-indigo-[stack_or_package_name]
 
 ***
 # interesting stacks
