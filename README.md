@@ -68,7 +68,9 @@ configure environment as follow:
 * [nav2djs](http://wiki.ros.org/nav2djs)
  * [nav2djs-develop](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/nav2djs-develop.zip)
 * [ros3djs](http://wiki.ros.org/ros3djs)
+ * [ros3djs-develop](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/ros3djs-develop.zip)
 * [rms](http://wiki.ros.org/rms)
+ * [rms-develop](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rms-develop.zip)
 
 ***
 # robots
