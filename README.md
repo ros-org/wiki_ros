@@ -3,7 +3,7 @@
 get all ros resources at <http://wiki.ros.org/>
 
 ***
-# quick installation
+# quick installation (for indigo)
 
 >(arm)$ sudo update-locale LANG=C LANGUAGE=C LC_ALL=C LC_MESSAGES=POSIX
 
@@ -32,7 +32,7 @@ get all ros resources at <http://wiki.ros.org/>
 >(arm)$ unset GTK_IM_MODULE
 
 ***
-# quick configuration
+# quick configuration (for indigo)
 
 >$ echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc
 
@@ -60,8 +60,14 @@ get all ros resources at <http://wiki.ros.org/>
 
 >$ catkin_create_pkg [package_name] [depend1] [depend2] [depend3] ...
 
+>$ sudo apt-get install ros-indigo-[stack_or_package_name]
+
+replace underscores with dashes of the package name
+
 ***
-# stacks
+# interesting stacks
+
+* [slam_gmapping](http://wiki.ros.org/slam_gmapping)
 
 * [rosbridge_suite](http://wiki.ros.org/rosbridge_suite)
  * [rosbridge_suite-develop](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rosbridge_suite-develop.zip)
