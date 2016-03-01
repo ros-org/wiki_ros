@@ -91,6 +91,9 @@ install package as: (replace underscores with dashes of the package name)
 * [nav2djs](http://wiki.ros.org/nav2djs) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/nav2djs-develop.zip) | 
 [nav2d.min.js](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/nav2d.min.js)
+* [keyboardteleopjs](http://wiki.ros.org/keyboardteleopjs) - 
+[zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/keyboardteleopjs-develop.zip) | 
+[keyboardteleop.min.js](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/keyboardteleop.min.js)
 * [rms](http://wiki.ros.org/rms) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rms-develop.zip)
 
