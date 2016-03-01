@@ -85,12 +85,12 @@ install package as: (replace underscores with dashes of the package name)
 * [ros2djs](http://wiki.ros.org/ros2djs) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/ros2djs-develop.zip) | 
 [easeljs.min.js](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/easeljs.min.js) |  [ros2d.min.js](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/ros2d.min.js)
+* [ros3djs](http://wiki.ros.org/ros3djs) - 
+[zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/ros3djs-develop.zip) | 
+[three.min.js](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/three.min.js) |  [ros3d.min.js](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/ros3d.min.js)
 * [nav2djs](http://wiki.ros.org/nav2djs) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/nav2djs-develop.zip) | 
 [nav2d.min.js](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/nav2d.min.js)
-* [ros3djs](http://wiki.ros.org/ros3djs) - 
-[zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/ros3djs-develop.zip) | 
-[ros3d.min.js](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/ros3d.min.js)
 * [rms](http://wiki.ros.org/rms) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rms-develop.zip)
 
