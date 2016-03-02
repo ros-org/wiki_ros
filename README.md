@@ -67,6 +67,11 @@ install package as: (replace underscores with dashes of the package name)
 >$ sudo apt-get install ros-indigo-[stack_or_package_name]
 
 ***
+# install software
+
+>$ sudo apt-get install vim
+
+***
 # interesting stacks
 
 * [octomap](http://wiki.ros.org/octomap)
