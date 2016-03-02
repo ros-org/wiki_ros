@@ -70,10 +70,10 @@ install package as: (replace underscores with dashes of the package name)
 # interesting stacks
 
 * [octomap](http://wiki.ros.org/octomap)
-* [slam_gmapping](http://wiki.ros.org/slam_gmapping)
-* [hector_mapping](http://wiki.ros.org/hector_mapping)
+* [slam_gmapping](http://wiki.ros.org/slam_gmapping) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/slam_gmapping-hydro-devel.zip)
+* [hector_mapping](http://wiki.ros.org/hector_mapping) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/hector_slam-catkin.zip)
 * [hector_navigation](http://wiki.ros.org/hector_navigation)
-* [navigation](http://wiki.ros.org/navigation)
+* [navigation](http://wiki.ros.org/navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/navigation-indigo-devel.zip)
 * [people](http://wiki.ros.org/people)
 * [robot_web_tools](http://wiki.ros.org/robot_web_tools) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_web_tools-develop.zip)
 * [robot_pose_publisher](http://wiki.ros.org/robot_pose_publisher) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_pose_publisher-develop.zip)
