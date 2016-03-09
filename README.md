@@ -34,7 +34,7 @@ get all ros resources at <http://wiki.ros.org/>
 ***
 # quick configuration (for indigo)
 
->$ echo "export ROS_IP=\`hostname -I\`" >> ~/.bashrc
+>$ echo "export ROS_IP=\\\`hostname -I\\\`" >> ~/.bashrc
 
 >$ echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc
 
