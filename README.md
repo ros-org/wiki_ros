@@ -82,6 +82,7 @@ install package as: (replace underscores with dashes of the package name)
 * [hector_navigation](http://wiki.ros.org/hector_navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/hector_navigation-catkin.zip)
 * [navigation](http://wiki.ros.org/navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/navigation-indigo-devel.zip)
 * [people](http://wiki.ros.org/people) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/people-indigo-devel.zip)
+* [joy](http://wiki.ros.org/joy) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/joystick_drivers-indigo-devel.zip)
 * [robot_web_tools](http://wiki.ros.org/robot_web_tools) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_web_tools-develop.zip)
 * [robot_pose_publisher](http://wiki.ros.org/robot_pose_publisher) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_pose_publisher-develop.zip)
 * [tf2_web_republisher](http://wiki.ros.org/tf2_web_republisher) - 
