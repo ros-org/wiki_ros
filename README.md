@@ -44,7 +44,7 @@ get all ros resources at <http://wiki.ros.org/>
 
 >$ mkdir ~/catkin_ws
 
->$ ln -s ~/workspaces/src ~/catkin_ws/src
+>$ ln -s ~/workspaces/hitrobot/ros-indigo/src/ ~/catkin_ws/src
 
 >$ cd ~/catkin_ws/src
 
