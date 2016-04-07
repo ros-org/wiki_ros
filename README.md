@@ -108,4 +108,9 @@ install package as: (replace underscores with dashes of the package name)
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rms-develop.zip)
 
 ***
+# interesting repositories
+* [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - 
+[zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/jsoncpp-master.zip)
+
+***
 # robots
