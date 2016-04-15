@@ -77,8 +77,8 @@ install package as: (replace underscores with dashes of the package name)
 # interesting stacks
 
 * [urg_node](http://wiki.ros.org/urg_node) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/urg_node-indigo-devel.zip)
-* [octomap](http://wiki.ros.org/octomap) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/octomap-devel.zip)
 * [slam_gmapping](http://wiki.ros.org/slam_gmapping) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/slam_gmapping-hydro-devel.zip)
+* [octomap_mapping](http://wiki.ros.org/octomap_server) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/octomap_mapping-indigo-devel.zip)
 * [hector_mapping](http://wiki.ros.org/hector_mapping) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/hector_slam-catkin.zip)
 * [hector_navigation](http://wiki.ros.org/hector_navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/hector_navigation-catkin.zip)
 * [navigation](http://wiki.ros.org/navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/navigation-indigo-devel.zip)
