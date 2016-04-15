@@ -106,7 +106,7 @@ install package as: (replace underscores with dashes of the package name)
 [keyboardteleop.min.js](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/keyboardteleop.min.js)
 * [rms](http://wiki.ros.org/rms) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rms-develop.zip)
-* [rms](http://wiki.ros.org/velodyne) - 
+* [velodyne](http://wiki.ros.org/velodyne) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/velodyne-master.zip)
 
 ***
