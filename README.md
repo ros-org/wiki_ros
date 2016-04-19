@@ -76,15 +76,17 @@ install package as: (replace underscores with dashes of the package name)
 ***
 # interesting stacks
 
-* [urg_node](http://wiki.ros.org/urg_node) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/urg_node-indigo-devel.zip)
 * [slam_gmapping](http://wiki.ros.org/slam_gmapping) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/slam_gmapping-hydro-devel.zip)
-* [octomap_mapping](http://wiki.ros.org/octomap_server) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/octomap_mapping-indigo-devel.zip)
 * [hector_mapping](http://wiki.ros.org/hector_mapping) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/hector_slam-catkin.zip)
-* [hector_navigation](http://wiki.ros.org/hector_navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/hector_navigation-catkin.zip)
+* [octomap_mapping](http://wiki.ros.org/octomap_server) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/octomap_mapping-indigo-devel.zip)
 * [navigation](http://wiki.ros.org/navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/navigation-indigo-devel.zip)
+* [hector_navigation](http://wiki.ros.org/hector_navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/hector_navigation-catkin.zip)
 * [people](http://wiki.ros.org/people) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/people-indigo-devel.zip)
 * [joystick_drivers](http://wiki.ros.org/joystick_drivers) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/joystick_drivers-indigo-devel.zip)
 * [cob_driver](http://wiki.ros.org/cob_driver) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/cob_driver-indigo_dev.zip)
+* [urg_node](http://wiki.ros.org/urg_node) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/urg_node-indigo-devel.zip)
+* [velodyne](http://wiki.ros.org/velodyne) - 
+[zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/velodyne-master.zip)
 * [robot_web_tools](http://wiki.ros.org/robot_web_tools) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_web_tools-develop.zip)
 * [robot_pose_publisher](http://wiki.ros.org/robot_pose_publisher) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_pose_publisher-develop.zip)
 * [tf2_web_republisher](http://wiki.ros.org/tf2_web_republisher) - 
@@ -106,8 +108,6 @@ install package as: (replace underscores with dashes of the package name)
 [keyboardteleop.min.js](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/keyboardteleop.min.js)
 * [rms](http://wiki.ros.org/rms) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rms-develop.zip)
-* [velodyne](http://wiki.ros.org/velodyne) - 
-[zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/velodyne-master.zip)
 
 ***
 # interesting repositories
