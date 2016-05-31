@@ -71,9 +71,7 @@ install package as: (replace underscores with dashes of the package name)
 ***
 # install software
 
->$ sudo apt-get install vim
-
->$ sudo apt-get install ssh
+>$ sudo apt-get install vim ssh setserial cutecom
 
 ***
 # interesting stacks
