@@ -40,7 +40,7 @@ get all ros resources at <http://wiki.ros.org/>
 
 >$ source ~/.bashrc
 
->$ mkdir -p ~/workspaces/src
+>$ mkdir -p ~/workspaces/hitrobot/ros-indigo/src/
 
 >$ mkdir ~/catkin_ws
 
