@@ -69,11 +69,6 @@ install package as: (replace underscores with dashes of the package name)
 >$ sudo apt-get install ros-indigo-[stack_or_package_name]
 
 ***
-# install software
-
->$ sudo apt-get install vim ssh setserial cutecom
-
-***
 # interesting stacks
 
 * [slam_gmapping](http://wiki.ros.org/slam_gmapping) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/slam_gmapping-hydro-devel.zip)
