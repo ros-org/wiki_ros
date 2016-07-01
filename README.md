@@ -23,6 +23,8 @@ get all ros resources at <http://wiki.ros.org/>
 
 >(arm)$ sudo apt-get install python-rosdep
 
+>(arm)$ sudo apt-get install python-twisted
+
 >$ sudo rosdep init
 
 >$ rosdep update
