@@ -54,6 +54,8 @@ get all ros resources at <http://wiki.ros.org/>
 
 >$ source ~/catkin_ws/devel/setup.bash
 
+>$ echo "source ~/catkin_ws/base.sh" >> ~/.bashrc
+
 >$ cd ~/catkin_ws/src
 
 create package as:
