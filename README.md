@@ -36,17 +36,13 @@ get all ros resources at <http://wiki.ros.org/>
 ***
 # quick configuration (for indigo)
 
->$ echo "export ROS_IP=\\\`hostname -I\\\`" >> ~/.bashrc
+>$ source /opt/ros/indigo/setup.bash
 
->$ echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc
+>$ mkdir -p ~/workspaces/hitrobot
 
->$ source ~/.bashrc
+>$ git clone git@github.com:hitrobotgroup/ros_org
 
->$ mkdir -p ~/workspaces/hitrobot/ros-indigo/src/
-
->$ mkdir ~/catkin_ws
-
->$ ln -s ~/workspaces/hitrobot/ros-indigo/src/ ~/catkin_ws/src
+>$ ln -s ~/workspaces/hitrobot/ros_org ~/catkin_ws
 
 >$ cd ~/catkin_ws/src
 
@@ -56,9 +52,7 @@ get all ros resources at <http://wiki.ros.org/>
 
 >$ catkin_make
 
->$ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
-
->$ source ~/.bashrc
+>$ source ~/catkin_ws/devel/setup.bash
 
 >$ cd ~/catkin_ws/src
 
