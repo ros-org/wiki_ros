@@ -113,4 +113,12 @@ install package as: (replace underscores with dashes of the package name)
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/jsoncpp-master.zip)
 
 ***
-# robots
+# interesting nodes
+* tf_broadcaster
+* rosbridge_shell
+* rosbridge_driver
+* rosbridge_mapoint
+* rosbridge_waypoint
+
+***
+# interesting robots
