@@ -81,6 +81,8 @@ install package as: (replace underscores with dashes of the package name)
 * [cob_driver](http://wiki.ros.org/cob_driver) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/cob_driver-indigo_dev.zip)
 * [urg_node](http://wiki.ros.org/urg_node) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/urg_node-indigo-devel.zip)
 * [openni2_launch](http://wiki.ros.org/openni2_launch) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/openni2_launch-indigo-devel.zip)
+* [rplidar_ros](http://wiki.ros.org/rplidar_ros) - 
+[zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rplidar_ros-master.zip)
 * [velodyne](http://wiki.ros.org/velodyne) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/velodyne-master.zip)
 * [diagnostics](http://wiki.ros.org/diagnostics) - 
