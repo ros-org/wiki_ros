@@ -80,13 +80,11 @@ install package as: (replace underscores with dashes of the package name)
 * [cob_control](http://wiki.ros.org/cob_control) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/cob_control-indigo_dev.zip)
 * [cob_driver](http://wiki.ros.org/cob_driver) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/cob_driver-indigo_dev.zip)
 * [urg_node](http://wiki.ros.org/urg_node) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/urg_node-indigo-devel.zip)
-* [openni2_launch](http://wiki.ros.org/openni2_launch) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/openni2_launch-indigo-devel.zip)
 * [rplidar_ros](http://wiki.ros.org/rplidar_ros) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rplidar_ros-master.zip)
 * [velodyne](http://wiki.ros.org/velodyne) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/velodyne-master.zip)
-* [diagnostics](http://wiki.ros.org/diagnostics) - 
-[zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/diagnostics-indigo-devel.zip)
+* [openni2_launch](http://wiki.ros.org/openni2_launch) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/openni2_launch-indigo-devel.zip)
 * [robot_web_tools](http://wiki.ros.org/robot_web_tools) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_web_tools-develop.zip)
 * [laser_filters](http://wiki.ros.org/laser_filters) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/laser_filters-indigo-devel.zip)
 * [robot_pose_publisher](http://wiki.ros.org/robot_pose_publisher) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_pose_publisher-develop.zip)
