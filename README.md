@@ -38,6 +38,8 @@ get all ros resources at <http://wiki.ros.org/>
 
 >$ source /opt/ros/indigo/setup.bash
 
+>$ echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc
+
 >$ mkdir -p ~/workspaces/hitrobot
 
 >$ (for devel)git clone git@github.com:hitrobotgroup/release
@@ -48,7 +50,9 @@ get all ros resources at <http://wiki.ros.org/>
 
 >$ (for release)git clone https://github.com/hitrobotgroup/dbparam
 
->$ ln -s ~/workspaces/hitrobot/ros_org ~/catkin_ws
+>$ (for devel)ln -s ~/workspaces/hitrobot/ros_org ~/catkin_ws
+
+>$ (for release)ln -s ~/workspaces/hitrobot/release ~/catkin_ws
 
 >$ cd ~/catkin_ws/src
 
