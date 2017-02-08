@@ -40,7 +40,9 @@ get all ros resources at <http://wiki.ros.org/>
 
 >$ mkdir -p ~/workspaces/hitrobot
 
->$ git clone git@github.com:hitrobotgroup/ros_org
+>$ (for devel)git clone git@github.com:hitrobotgroup/release
+
+>$ (for release)git clone -b $ROS_DISTRO https://github.com/hitrobotgroup/release
 
 >$ ln -s ~/workspaces/hitrobot/ros_org ~/catkin_ws
 
