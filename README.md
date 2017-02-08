@@ -44,6 +44,10 @@ get all ros resources at <http://wiki.ros.org/>
 
 >$ (for release)git clone -b $ROS_DISTRO https://github.com/hitrobotgroup/release
 
+>$ (for devel)git clone git@github.com:hitrobotgroup/dbparam
+
+>$ (for release)git clone https://github.com/hitrobotgroup/dbparam
+
 >$ ln -s ~/workspaces/hitrobot/ros_org ~/catkin_ws
 
 >$ cd ~/catkin_ws/src
