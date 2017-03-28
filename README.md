@@ -128,6 +128,10 @@ install package as: (replace underscores with dashes of the package name)
 * [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/jsoncpp-master.zip)
 
+* ros-indigo-navigation-layers
+* freeglut3-dev
+* git clone https://github.com/ar-tools/ar_tools
+
 ***
 # interesting nodes
 * tf_broadcaster
