@@ -85,6 +85,7 @@ install package as: (replace underscores with dashes of the package name)
 * [navigation](http://wiki.ros.org/navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/navigation-indigo-devel.zip)
 * [hector_navigation](http://wiki.ros.org/hector_navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/hector_navigation-catkin.zip)
 * [teb_local_planner](http://wiki.ros.org/teb_local_planner) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/teb_local_planner-indigo-devel.zip)
+* [navigation-layers](http://wiki.ros.org/navigation-layers) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/navigation-layers-indigo.zip)
 * [people](http://wiki.ros.org/people) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/people-indigo-devel.zip)
 * [joystick_drivers](http://wiki.ros.org/joystick_drivers) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/joystick_drivers-indigo-devel.zip)
 * [diagnostics](http://wiki.ros.org/diagnostics) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/diagnostics-indigo-devel.zip)
@@ -128,7 +129,6 @@ install package as: (replace underscores with dashes of the package name)
 * [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/jsoncpp-master.zip)
 
-* ros-indigo-navigation-layers
 * freeglut3-dev
 * git clone https://github.com/ar-tools/ar_tools
 
