@@ -131,6 +131,7 @@ install package as: (replace underscores with dashes of the package name)
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/jsoncpp-master.zip)
 
 * freeglut3-dev
+* libv4l-dev
 * git clone https://github.com/ar-tools/ar_tools
 
 ***
