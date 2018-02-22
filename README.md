@@ -157,12 +157,13 @@ sudo apt-get update
 sudo apt-get install -y python-wstool python-rosdep ninja-build
 
 # Create a new workspace in 'catkin_ws'.
-mkdir catkin_ws
-cd catkin_ws
+mkdir -p ~/workspaces/hitrobot/cartographer
+cd ~/workspaces/hitrobot/cartographer
 wstool init src
 
 # Merge the cartographer_ros.rosinstall file and fetch code for dependencies.
 wstool merge -t src https://raw.githubusercontent.com/googlecartographer/cartographer_ros/master/cartographer_ros.rosinstall
+sed -i 's/ceres-solver.googlesource.com/github.com\/ceres-solver/' src/.rosinstall
 wstool update -t src
 
 # Install proto3.
