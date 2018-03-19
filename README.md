@@ -166,6 +166,16 @@ wstool merge -t src https://raw.githubusercontent.com/googlecartographer/cartogr
 sed -i 's/ceres-solver.googlesource.com/github.com\/ceres-solver/' src/.rosinstall
 wstool update -t src
 
+# Add eigin path in src/ceres-solver/CMakelist.txt
+# include_directories(SYSTEM ${EIGEN_INCLUDE_DIRS})
+# include_directories(/usr/include/eigen3)
+mkdir -p src/ceres-solver/build
+cd src/ceres-solver/build
+cmake ..
+make –j
+sudo make install
+cd ../..
+
 # Install proto3.
 src/cartographer/scripts/install_proto3.sh
 
