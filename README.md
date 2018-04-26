@@ -166,9 +166,10 @@ wstool merge -t src https://raw.githubusercontent.com/googlecartographer/cartogr
 sed -i 's/ceres-solver.googlesource.com/github.com\/ceres-solver/' src/.rosinstall
 wstool update -t src
 
-# Add eigin path in src/ceres-solver/CMakelist.txt
-# include_directories(SYSTEM ${EIGEN_INCLUDE_DIRS})
-# include_directories(/usr/include/eigen3)
+# link eigen3 for catkin make if necessary
+sudo ln -s /usr/include/eigen3/Eigen/ /usr/include/Eigen
+sudo ln -s /usr/include/eigen3/unsupported/ /usr/include/unsupported
+
 mkdir -p src/ceres-solver/build
 cd src/ceres-solver/build
 cmake ..
