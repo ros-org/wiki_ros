@@ -3,7 +3,7 @@
 get all ros resources at <http://wiki.ros.org/>
 
 ***
-# quick installation (for indigo)
+# quick installation
 
 >(arm)$ sudo update-locale LANG=C LANGUAGE=C LC_ALL=C LC_MESSAGES=POSIX
 
@@ -11,15 +11,17 @@ get all ros resources at <http://wiki.ros.org/>
 
 >(arm)$ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu trusty main" > /etc/apt/sources.list.d/ros-latest.list'
 
->(!arm)$ sudo apt-key adv --keyserver hkp://pool.sks-keyservers.net --recv-key 0xB01FA116
+>(!arm)$ sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 421C365BD9FF1F717815A3895523BAEEB01FA116
 
 >(arm)$ wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo apt-key add -
 
 >$ sudo apt-get update
 
->(!arm)$ sudo apt-get install ros-indigo-desktop-full
+>(!arm && indigo)$ sudo apt-get install ros-indigo-desktop-full
 
->(arm)$ sudo apt-get install ros-indigo-ros-base
+>(!arm && melodic)$ sudo apt-get install ros-melodic-desktop-full
+
+>(arm && indigo)$ sudo apt-get install ros-indigo-ros-base
 
 >(arm)$ sudo apt-get install python-rosdep
 
@@ -29,7 +31,7 @@ get all ros resources at <http://wiki.ros.org/>
 
 >$ rosdep update
 
->$ sudo apt-get install python-rosinstall
+>$ sudo apt-get install python-rosinstall python-rosinstall-generator python-wstool build-essential
 
 >(arm)$ unset GTK_IM_MODULE
 
