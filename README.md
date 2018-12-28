@@ -36,11 +36,11 @@ get all ros resources at <http://wiki.ros.org/>
 >(arm)$ unset GTK_IM_MODULE
 
 ***
-# quick configuration (for indigo)
+# quick configuration
 
->$ source /opt/ros/indigo/setup.bash
+>$ source /opt/ros/$ROS_DISTRO/setup.bash
 
->$ echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc
+>$ echo "source /opt/ros/$ROS_DISTRO/setup.bash" >> ~/.bashrc
 
 >$ mkdir -p ~/workspaces/hitrobot
 
@@ -76,7 +76,7 @@ create package as:
 
 install package as: (replace underscores with dashes of the package name)
 
->$ sudo apt-get install ros-indigo-[stack_or_package_name]
+>$ sudo apt-get install ros-$ROS_DISTRO-[stack_or_package_name]
 
 ***
 # interesting stacks
