@@ -79,21 +79,13 @@ install package as: (replace underscores with dashes of the package name)
 >$ sudo apt-get install ros-$ROS_DISTRO-[stack_or_package_name]
 
 ***
-# interesting stacks
+# installing stacks
 
-* [slam_gmapping](http://wiki.ros.org/slam_gmapping) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/slam_gmapping-hydro-devel.zip)
-* [hector_mapping](http://wiki.ros.org/hector_mapping) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/hector_slam-catkin.zip)
-* [octomap_mapping](http://wiki.ros.org/octomap_server) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/octomap_mapping-indigo-devel.zip)
 * [navigation](http://wiki.ros.org/navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/navigation-indigo-devel.zip)
-* [hector_navigation](http://wiki.ros.org/hector_navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/hector_navigation-catkin.zip)
 * [teb_local_planner](http://wiki.ros.org/teb_local_planner) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/teb_local_planner-indigo-devel.zip)
-* [navigation_layers](http://wiki.ros.org/navigation_layers) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/navigation_layers-indigo.zip)
-* [straf_recovery](http://wiki.ros.org/straf_recovery) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/straf_recovery-master.zip)
-* [people](http://wiki.ros.org/people) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/people-indigo-devel.zip)
+* [robot_localization](http://wiki.ros.org/robot_localization) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_localization-indigo-devel.zip)
+
 * [joystick_drivers](http://wiki.ros.org/joystick_drivers) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/joystick_drivers-indigo-devel.zip)
-* [diagnostics](http://wiki.ros.org/diagnostics) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/diagnostics-indigo-devel.zip)
-* [cob_control](http://wiki.ros.org/cob_control) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/cob_control-indigo_dev.zip)
-* [cob_driver](http://wiki.ros.org/cob_driver) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/cob_driver-indigo_dev.zip)
 * [urg_node](http://wiki.ros.org/urg_node) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/urg_node-indigo-devel.zip)
 * [sick_tim](http://wiki.ros.org/sick_tim) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/sick_tim-indigo.zip)
 * [lms1xx](http://wiki.ros.org/LMS1xx) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/LMS1xx-master.zip)
@@ -101,14 +93,30 @@ install package as: (replace underscores with dashes of the package name)
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rplidar_ros-master.zip)
 * [velodyne](http://wiki.ros.org/velodyne) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/velodyne-master.zip)
-* [openni2_launch](http://wiki.ros.org/openni2_launch) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/openni2_launch-indigo-devel.zip)
-* [robot_web_tools](http://wiki.ros.org/robot_web_tools) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_web_tools-develop.zip)
-* [laser_filters](http://wiki.ros.org/laser_filters) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/laser_filters-indigo-devel.zip)
-* [scan_tools](http://wiki.ros.org/scan_tools) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/scan_tools-indigo.zip)
-* [robot_pose_publisher](http://wiki.ros.org/robot_pose_publisher) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_pose_publisher-develop.zip)
+
+* [rosbridge_suite](http://wiki.ros.org/rosbridge_suite) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rosbridge_suite-develop.zip)
 * [tf2_web_republisher](http://wiki.ros.org/tf2_web_republisher) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/tf2_web_republisher-develop.zip)
-* [rosbridge_suite](http://wiki.ros.org/rosbridge_suite) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rosbridge_suite-develop.zip)
+* [diagnostics](http://wiki.ros.org/diagnostics) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/diagnostics-indigo-devel.zip)
+* [laser_filters](http://wiki.ros.org/laser_filters) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/laser_filters-indigo-devel.zip)
+
+***
+# interesting stacks
+
+* [slam_gmapping](http://wiki.ros.org/slam_gmapping) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/slam_gmapping-hydro-devel.zip)
+* [octomap_mapping](http://wiki.ros.org/octomap_server) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/octomap_mapping-indigo-devel.zip)
+* [hector_slam](http://wiki.ros.org/hector_slam) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/hector_slam-catkin.zip)
+* [navigation_layers](http://wiki.ros.org/navigation_layers) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/navigation_layers-indigo.zip)
+
+* [cob_control](http://wiki.ros.org/cob_control) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/cob_control-indigo_dev.zip)
+* [cob_driver](http://wiki.ros.org/cob_driver) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/cob_driver-indigo_dev.zip)
+
+* [straf_recovery](http://wiki.ros.org/straf_recovery) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/straf_recovery-master.zip)
+* [people](http://wiki.ros.org/people) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/people-indigo-devel.zip)
+* [openni2_launch](http://wiki.ros.org/openni2_launch) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/openni2_launch-indigo-devel.zip)
+* [robot_web_tools](http://wiki.ros.org/robot_web_tools) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_web_tools-develop.zip)
+* [scan_tools](http://wiki.ros.org/scan_tools) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/scan_tools-indigo.zip)
+* [robot_pose_publisher](http://wiki.ros.org/robot_pose_publisher) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_pose_publisher-develop.zip)
 * [roslibjs](http://wiki.ros.org/roslibjs) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/roslibjs-develop.zip) |  [eventemitter2.min.js](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/eventemitter2.min.js) |  [roslib.min.js](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/roslib.min.js)
 * [ros2djs](http://wiki.ros.org/ros2djs) - 
