@@ -103,6 +103,7 @@ install package as: (replace underscores with dashes of the package name)
 * [diagnostics](http://wiki.ros.org/diagnostics) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/diagnostics-indigo-devel.zip)
 
 * [yujin_ocs](http://wiki.ros.org/yujin_ocs) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/yujin_ocs-indigo_dev.zip)
+* [yocs_msgs](http://wiki.ros.org/yocs_msgs) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/yocs_msgs-indigo_dev.zip)
 
 ***
 # interesting stacks
