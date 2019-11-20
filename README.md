@@ -84,6 +84,7 @@ install package as: (replace underscores with dashes of the package name)
 * [navigation](http://wiki.ros.org/navigation) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/navigation-indigo-devel.zip)
 * [teb_local_planner](http://wiki.ros.org/teb_local_planner) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/teb_local_planner-indigo-devel.zip)
 * [robot_localization](http://wiki.ros.org/robot_localization) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/robot_localization-indigo-devel.zip)
+* [ackermann_msgs](http://wiki.ros.org/ackermann_msgs) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/ackermann_msgs-indigo-devel.zip)
 
 * [joystick_drivers](http://wiki.ros.org/joystick_drivers) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/joystick_drivers-indigo-devel.zip)
 * [urg_node](http://wiki.ros.org/urg_node) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/urg_node-indigo-devel.zip)
@@ -93,12 +94,13 @@ install package as: (replace underscores with dashes of the package name)
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rplidar_ros-master.zip)
 * [velodyne](http://wiki.ros.org/velodyne) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/velodyne-master.zip)
+* [imu_tools](http://wiki.ros.org/imu_tools) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/imu_tools-indigo-devel.zip)
+* [laser_filters](http://wiki.ros.org/laser_filters) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/laser_filters-indigo-devel.zip)
 
 * [rosbridge_suite](http://wiki.ros.org/rosbridge_suite) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/rosbridge_suite-develop.zip)
 * [tf2_web_republisher](http://wiki.ros.org/tf2_web_republisher) - 
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/tf2_web_republisher-develop.zip)
 * [diagnostics](http://wiki.ros.org/diagnostics) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/diagnostics-indigo-devel.zip)
-* [laser_filters](http://wiki.ros.org/laser_filters) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/laser_filters-indigo-devel.zip)
 
 ***
 # interesting stacks
@@ -108,6 +110,7 @@ install package as: (replace underscores with dashes of the package name)
 * [hector_slam](http://wiki.ros.org/hector_slam) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/hector_slam-catkin.zip)
 * [navigation_layers](http://wiki.ros.org/navigation_layers) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/navigation_layers-indigo.zip)
 
+* [audio_common](http://wiki.ros.org/audio_common) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/audio_common-indigo-devel.zip)
 * [cob_control](http://wiki.ros.org/cob_control) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/cob_control-indigo_dev.zip)
 * [cob_driver](http://wiki.ros.org/cob_driver) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/cob_driver-indigo_dev.zip)
 
