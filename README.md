@@ -44,9 +44,9 @@ get all ros resources at <http://wiki.ros.org/>
 
 >$ mkdir -p ~/workspaces/hitrobot
 
->$ (for devel)git clone git@github.com:hitrobotgroup/release
+>$ (for devel)git clone git@github.com:ros-org/release
 
->$ (for release)git clone -b $ROS_DISTRO https://github.com/hitrobotgroup/release
+>$ (for release)git clone -b $ROS_DISTRO https://github.com/ros-org/release
 
 >$ (for devel)git clone git@github.com:hitrobotgroup/dbparam
 
