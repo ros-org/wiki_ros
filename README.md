@@ -102,9 +102,6 @@ install package as: (replace underscores with dashes of the package name)
 [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/tf2_web_republisher-develop.zip)
 * [diagnostics](http://wiki.ros.org/diagnostics) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/diagnostics-indigo-devel.zip)
 
-* [yujin_ocs](http://wiki.ros.org/yujin_ocs) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/yujin_ocs-indigo_dev.zip)
-* [yocs_msgs](http://wiki.ros.org/yocs_msgs) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/yocs_msgs-indigo_dev.zip)
-
 ***
 # interesting stacks
 
@@ -116,6 +113,8 @@ install package as: (replace underscores with dashes of the package name)
 * [audio_common](http://wiki.ros.org/audio_common) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/audio_common-indigo-devel.zip)
 * [cob_control](http://wiki.ros.org/cob_control) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/cob_control-indigo_dev.zip)
 * [cob_driver](http://wiki.ros.org/cob_driver) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/cob_driver-indigo_dev.zip)
+* [yujin_ocs](http://wiki.ros.org/yujin_ocs) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/yujin_ocs-indigo_dev.zip)
+* [yocs_msgs](http://wiki.ros.org/yocs_msgs) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/yocs_msgs-indigo_dev.zip)
 
 * [straf_recovery](http://wiki.ros.org/straf_recovery) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/straf_recovery-master.zip)
 * [people](http://wiki.ros.org/people) - [zip](https://raw.githubusercontent.com/ouiyeah/wiki_ros/master/src/people-indigo-devel.zip)
